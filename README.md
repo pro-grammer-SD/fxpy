@@ -4,8 +4,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13.5-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![moviepy](https://img.shields.io/badge/moviepy-2.2.1-brightgreen)](https://pypi.org/project/moviepy/)
-[![numpy](https://img.shields.io/badge/numpy-2.3.1-brightgreen)](https://pypi.org/project/numpy/)
-[![Pillow](https://img.shields.io/badge/Pillow-11.3.0-brightgreen)](https://pypi.org/project/Pillow/)
+[![numpy](https://img.shields.io/badge/numpy-1.26,<2.1-brightgreen)](https://pypi.org/project/numpy/)
+[![Pillow](https://img.shields.io/badge/Pillow-gray)](https://pypi.org/project/Pillow/)
 
 🚀 Install them with:
 
@@ -24,5 +24,9 @@ pip install moviepy==2.2.1 numpy==2.3.1 Pillow==11.3.0
   scoop install ffmpeg
   ```
 
-- **Note 📝**:
+# MyBinder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pro-grammer-SD/fxpy/main?urlpath=%2Fdoc%2Ftree%2Fexamples%2Fnotebook%2Fexamples.ipynb)
+
+# Examples
+
   - 💡 Further examples are available in the `examples/` folder.
