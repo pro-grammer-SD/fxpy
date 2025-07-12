@@ -1,3 +1,7 @@
+# ℹ️ About
+
+- 😇 A library trying to bring effects, especially Screen Studio effects to even unsupported OSes.
+
 # ⚙️ Requirements
 
 ## 🐍 Python Dependencies
