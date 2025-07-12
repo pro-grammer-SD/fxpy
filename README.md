@@ -24,8 +24,8 @@ pip install moviepy==2.2.1 numpy==2.3.1 Pillow==11.3.0
   scoop install ffmpeg
   ```
 
-# MyBinder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pro-grammer-SD/fxpy/main?urlpath=%2Fdoc%2Ftree%2Fexamples%2Fnotebook%2Fexamples.ipynb)
+# MyBinder (dev)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pro-grammer-SD/fxpY/HEAD)
 
 # Examples
 
