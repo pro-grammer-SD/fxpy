@@ -1,4 +1,4 @@
 **/__pycache__/
 **/*.pyc
-samples/face.mp4
-output.mp4
+/*.mp4
+**/samples/

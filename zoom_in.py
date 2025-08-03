@@ -57,3 +57,4 @@ def zoom_in(input_file: str, targetcs: tuple[float, float], duration: tuple[floa
         temp_audiofile="temp-audio.m4a",
         remove_temp=True
     )
+    

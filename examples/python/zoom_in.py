@@ -5,4 +5,4 @@ os.chdir(base_dir)
 
 from zoom_in import zoom_in
 
-zoom_in("samples/input.mp4", (0.5, 0.5), (3, 7))
+zoom_in("samples/input_2.mp4", (0.3, 0.5), (0, 4), "out.mp4")
