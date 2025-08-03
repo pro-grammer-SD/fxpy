@@ -25,9 +25,9 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-    "moviepy",
-    "Pillow",
-    "numpy"
+  "moviepy",
+  "Pillow",
+  "numpy"
 ]
 
 [project.urls]
